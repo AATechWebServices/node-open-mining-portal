@@ -1,0 +1,7 @@
+{
+    "name": "Omnicoin",
+    "symbol": "OMC",
+    "algorithm": "scrypt",
+    "peerMagic": "d4cba1ef",
+    "peerMagicTestnet": "bcadafc4"
+}
